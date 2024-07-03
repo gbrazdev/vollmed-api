@@ -17,13 +17,13 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 
 ## 🎨 Layout
 
-O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
+O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/design/RpPTf2OUEFzo7nmhRRQmGS/Voll.med">Figma</a>
 
 ---
 
 ## 📄 Documentação
 
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
+A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/muE3H866/api-vollmed">Trello</a>
 
 ---
 
